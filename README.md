@@ -1,5 +1,3 @@
-🧠 Descrição para o GitHub (README.md)
-🧩 Projeto: Sistema de Verificação de Artigos Científicos
 
 Este projeto tem como objetivo analisar documentos (PDF ou imagens) e determinar automaticamente se o arquivo é um artigo científico.
 Além disso, o sistema realiza segmentação de texto, contagem de parágrafos, extração de palavras mais frequentes e verificação de conformidade com uma regra simples:
